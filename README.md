@@ -1,5 +1,5 @@
-# Exam #1: "Car Rental"
-## Student: s276062 DI CANIO DANIELA
+#Car Rental
+##DI CANIO DANIELA
 
 ## React client application routes
 
