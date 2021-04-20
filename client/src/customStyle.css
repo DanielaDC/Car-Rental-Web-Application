@@ -1,0 +1,43 @@
+#c1{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#n1{
+    height: 70px;
+}
+
+.lightOn{
+    background-color: #c2f6c2;
+}
+
+.lightOnb{
+    background-color: #c3e6fc
+    ;
+}
+
+.lightOn:hover{
+    background-color: darkgreen;
+}
+
+#myimg { width: 200px; height: 200px; }
+#binimg {width: 30 px; height: 30px;}
+
+.jumbotron{
+    position: relative;
+    padding:0 !important;
+    margin-top:30px !important;
+    margin-left:70px !important;
+    background: aliceblue;
+    margin-right: 70px;
+    text-align:center;
+    margin-bottom: 0 !important;
+}
+
+h3{
+    color: chocolate;
+}
+
+h5{
+    color:steelblue;
+}
